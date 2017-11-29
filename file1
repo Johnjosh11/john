@@ -1,4 +1,5 @@
- <form name="htmlform" method="post" action="html_form_send.php">
+i am intended to write this 
+<form name="htmlform" method="post" action="html_form_send.php">
 <table width="450px">
 </tr>
 <tr>
